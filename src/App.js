@@ -6,15 +6,6 @@ function App() {
     <div className="app">
       <Header />
       <Home />
-      {/*Header*/}
-
-      {/*Banner*/}
-
-      {/*Cards*/}
-
-      {/*Footer*/}
-
-      {/*Search*/}
     </div>
   );
 }
