@@ -2,11 +2,9 @@ import React from 'react'
 import './footer.css'
 function Footer() {
     return (
-        <div>
-            <Footer>
-                <p>© 2021 Airbnb, Inc.</p>    
-                <p>·Privacy·Terms·Sitemap·Company details</p>
-            </Footer>            
+        <div className="footer">
+                <p>&copy;2021 Test, Inc.</p>    
+                <p>·Privacy·Terms·Sitemap·Company details</p>           
         </div>
     )
 }
